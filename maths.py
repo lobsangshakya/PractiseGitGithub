@@ -10,5 +10,5 @@ def subtraction(x, y):
     else:
         return(y-x)
 
-b = subtraction (12, 12)
+b = subtraction (12, 15)
 print(b)
