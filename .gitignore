@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# The below written venv/ helps not to add onto the real github //
+venv/ 
+myenv/
+
 # C extensions
 *.so
 
